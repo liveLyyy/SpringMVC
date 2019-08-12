@@ -5,6 +5,5 @@ SpringMVC
 >1.2、HandlerMapping：判断请求格式,判断希望要执行那个具体的方法<br>
 >1.3、HandlerAdapter：负责调用具体的方法<br>
 >1.4、ViewResovler：视图解析器，解析结果，准备跳转到具体的物理视图<br>
->1.4工作流程<br>
-[img]()
+>1.4[工作流程](src/main/img/流程.png)<br>
 
